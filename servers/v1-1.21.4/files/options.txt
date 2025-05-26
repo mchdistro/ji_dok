@@ -4,7 +4,8 @@ guiScale:3
 narrator:0
 autoJump:false
 realmsNotifications:false
-resourcePacks:["fabric"]
+resourcePacks:["vanilla","fabric","file/Jidok_Server_font.zip","file/Jidok_Server_Resourcepack.zip"]
+incompatibleResourcePacks:["commandkeys","koreanpatch","file/Jidok_Server_font.zip"]
 lang:ko_kr
 tutorialStep:none
 skipMultiplayerWarning:true

@@ -176,23 +176,23 @@
           }
         },
         {
-          "id": "generated.fabricmod:sj_core:2.0.0.19-SNAPSHOT@jar",
+          "id": "generated.fabricmod:sj_core:2.0.0.20-SNAPSHOT@jar",
           "name": "SJ-Core",
           "type": "FabricMod",
           "artifact": {
-            "size": 48817108,
-            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/v1-1.21.4/fabricmods/required/SJ-Core-2.0.0.19-SNAPSHOT.jar",
-            "MD5": "67bbe09b4fd2e160069593875f1a0fd6"
+            "size": 48817121,
+            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/v1-1.21.4/fabricmods/required/SJ-Core-2.0.0.20-SNAPSHOT.jar",
+            "MD5": "5338fb1a192f13d8407036c84c7af049"
           }
         },
         {
-          "id": "net.sjhub.sjdonation:sj_donation:3.0.1-BETA+5@jar",
+          "id": "net.sjhub.sjdonation:sj_donation:3.0.1-BETA+6@jar",
           "name": "SJ-Donation",
           "type": "FabricMod",
           "artifact": {
-            "size": 3062254,
-            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/v1-1.21.4/fabricmods/required/SJ-Donation-3.0.1-BETA+5.jar",
-            "MD5": "ef7120e41fb9f442cd328a55c217b6c7"
+            "size": 3076846,
+            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/v1-1.21.4/fabricmods/required/SJ-Donation-3.0.1-BETA+6.jar",
+            "MD5": "4566d2d200442ee28397100d3335fd6e"
           }
         },
         {
@@ -260,9 +260,31 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1164,
+            "size": 1326,
             "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/v1-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Jidok_Server_font.zip",
+          "name": "Jidok_Server_font.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1622941,
+            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/v1-1.21.4/files/resourcepacks/Jidok_Server_font.zip",
+            "MD5": "8a4038dcc573e1858bc42883c57669d1",
+            "path": "resourcepacks/Jidok_Server_font.zip"
+          }
+        },
+        {
+          "id": "Jidok_Server_Resourcepack.zip",
+          "name": "Jidok_Server_Resourcepack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 38373757,
+            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/v1-1.21.4/files/resourcepacks/Jidok_Server_Resourcepack.zip",
+            "MD5": "bbd7f7bb9540f4eb3a759a75718beb72",
+            "path": "resourcepacks/Jidok_Server_Resourcepack.zip"
           }
         },
         {
