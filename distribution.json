@@ -186,13 +186,13 @@
           }
         },
         {
-          "id": "net.sjhub.sjdonation:sj_donation:3.0.1-BETA+6@jar",
+          "id": "net.sjhub.sjdonation:sj_donation:3.0.1-BETA+7@jar",
           "name": "SJ-Donation",
           "type": "FabricMod",
           "artifact": {
-            "size": 3076846,
-            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/jidok_server-1.21.4/fabricmods/required/SJ-Donation-3.0.1-BETA+6.jar",
-            "MD5": "4566d2d200442ee28397100d3335fd6e"
+            "size": 3077278,
+            "url": "https://github.com/mchdistro/ji_dok/raw/main/servers/jidok_server-1.21.4/fabricmods/required/SJ-Donation-3.0.1-BETA+7.jar",
+            "MD5": "395710551a2b0bfd66bc5c3ee5085fef"
           }
         },
         {
